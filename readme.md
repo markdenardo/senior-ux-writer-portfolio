@@ -20,7 +20,7 @@ Medium Account
 
 https://markdenardo.medium.com/
 
-Other samples:
+Writing samples:
 
 https://markdenardo.medium.com/loops-in-lua-using-instancing-to-create-3d-objects-in-roblox-5d173cc437dc
 
