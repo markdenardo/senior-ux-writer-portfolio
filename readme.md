@@ -6,6 +6,9 @@ http://glorkianwarrior.com/
 Tesseract
 https://medium.com/through-the-looking-glass/tesseract-casting-sounds-in-toy-volume-5890a1756d6d
 
+Teenage Engineering Pocket Operators
+https://teenage.engineering/ems/lessons/po-20/arcade_chords
+
 offGrid
 https://birdkids.org/
 
