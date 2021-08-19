@@ -22,9 +22,9 @@ https://markdenardo.medium.com/
 
 Writing samples:
 
-https://markdenardo.medium.com/loops-in-lua-using-instancing-to-create-3d-objects-in-roblox-5d173cc437dc
-
 https://markdenardo.medium.com/p5-js-in-react-723521717b93
+
+https://markdenardo.medium.com/loops-in-lua-using-instancing-to-create-3d-objects-in-roblox-5d173cc437dc
 
 https://markdenardo.medium.com/new-strategies-a-full-stack-approach-to-utilizing-an-oracle-system-creatively-d5f1d12e56c2
 
